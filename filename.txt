@@ -1,0 +1,1 @@
+Hello world. This is a one of a kind program. It is able to read anything I write externally and print it to the terminal. Learning quite interesting things.
